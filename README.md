@@ -5,7 +5,7 @@ Json template for adding a new link:
 
 ```
 ,{
-    "Name" : "Guy in a Cube",
-    "Url" : "https://guyinacube.com/videos/"
+    "Name" : "YouTube channel of a famous SQL person",
+    "Url" : "https://youtube.com/xxx/"
   }
 ```
